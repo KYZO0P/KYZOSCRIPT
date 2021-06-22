@@ -3,7 +3,7 @@ KYZO 0P SETUP MANAGER [VPS]
 
 Cara guna:
 1. Log masuk ke VPS anda.
-2. Masukkan perintah: wget "https://github.com/cybertize-dev/Debian-10/archive/refs/heads/main.zip"
+2. Masukkan perintah: wget "https://github.com/KYZO0P/KYZOSCRIPT/archive/refs/heads/main.zip"
 3. Pasang pakej unzip dengan cara: apt-get -y install unzip
 4. Masukkan perintah: unzip main.zip
 5. Masuk ke dalam folder yang kamu baru saja unzip. (Sekiranya anda tidak pasti nama folder anda boleh periksa fail & folder dengan cara masukkan perintah: ls) Untuk masuk ke dalam folder masukkan perintah: cd <folder> CTH: cd Debian-10
